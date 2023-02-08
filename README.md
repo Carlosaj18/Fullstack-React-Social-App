@@ -83,26 +83,23 @@
 
 https://user-images.githubusercontent.com/62365628/216800626-b3585ace-ba37-4f7b-82bd-ef1055732398.mp4
 
-
-
-
-
-
-My desire is to nurture your true identity. My heart is to constantly remind you who you are. Whether you follow & wholeheartedly believe in Jesus Christ, is your decision to pursue. Regardless, I want you to know that you are valued and loved more than words could ever say. Your life on this earth is a miracle and the breath in your lungs was purposefully designed for such a time as this. My hope is to remind you of the infinite value you hold within & the beautiful light that shines every time you genuinely smile. My will is to cry out to God on your behalf so the love that transcends understanding overwhelms your heart. Whether you believe it or not, God loves you & He is not afraid of your doubts. May you be courageous enough to ask the right questions and seek the right answers. For those who seek will find and, those who knock, the door will be open (Matthew 7:7).
+This is a social App that allows you to interact with your friends, make comments, likes and posts. 
 
 Here's why:
-* Shine Artisanal was born out of the desire to help women encounter their true and beautiful self as the unique masterpiece that God designed them to be.
-* Our aim is to empower women to let their light shine!
+* It easy to register and login. 
+* You can make any post and upload the image and description.
+* Your friends can like your post. 
+* You can add new friends to your list. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
 
-Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payment
+Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px"></a>
-  <a target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/216799491-89418b32-3745-4f1c-9e4c-cfc1144214f0.svg" alt="Strapi" height="40" style="vertical-align:top; margin:4px"></a>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo" height="40" style="vertical-align:top; margin:4px"></a>
+  <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="Express" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="Firebase" height="40" style="vertical-align:top; margin:10px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:10px"</a>
@@ -112,7 +109,6 @@ Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payme
 </p>
   
   
- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
