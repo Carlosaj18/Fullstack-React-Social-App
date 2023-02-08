@@ -131,7 +131,7 @@ Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | Rea
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App.git
+   git clone https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App.git
    ```
 2. Install NPM packages
    ```sh
