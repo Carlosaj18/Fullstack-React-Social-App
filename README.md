@@ -118,11 +118,6 @@ Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | Rea
 
 ### Prerequisites
 
-* Install Strapi
-  ```sh
-  npm run develop
-  ```
-
 * npm
   ```sh
   npm install npm@latest -g
@@ -138,11 +133,11 @@ Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | Rea
    ```sh
    npm install
    ```
-3. Start the Server
+3. Start the Server in localhost/3001
    ```sh
-   npm run develop
+   nodemon index.js
    ```
-4. Start the Client
+4. Start the Client in localhost/3000
    ```sh
    npm start
    ```
@@ -155,11 +150,11 @@ Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | Rea
 
 - [x] Start the Server
 - [x] Start the Client  
-- [ ] Select your products
-- [ ] Go to the payment section 
-- [ ] Checkput purchases 
+- [ ] Create your posts 
+- [ ] Add friends 
+- [ ] Like their posts 
 
-See the [open issues](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,7 +179,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App]
+Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,13 +187,13 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ca
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/graphs/contributors
+[contributors-url]: https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/network/members
+[forks-url]: https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues
+[issues-url]: https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/
 [product-screenshot]: https://user-images.githubusercontent.com/62365628/216798918-82c7b3c2-8936-4e80-bf5d-9b83d2a1f3bc.mp4
