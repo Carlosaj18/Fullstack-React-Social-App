@@ -32,19 +32,19 @@
     <img src="https://user-images.githubusercontent.com/62365628/214876004-be858914-bb6b-4b6e-8c40-b49112ff0d30.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Shine Ecommerce for Earrings </h3>
+  <h3 align="center">Social App </h3>
 
   <p align="center">
-    React Responsive, Fullstack, Shine Ecommerce App. We will be using React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit to build this entire application. This application will allow you to add products into a cart, have a form to fill out information and make payments through Stripe with a backend supported by Strapi.
+    React Responsive, Fullstack, Social App. We will be using MongoDB, Express, node, React, Material UI, Formik, Yup, and Redux Toolkit to build this entire application. This application will allow you to created you user, login with a token validation and post, add friends, like post, and see other posts.
     <br />
-    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App"><strong>Explore the site »</strong></a>
+    <a href="https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App"><strong>Explore the site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Carlosaj18/Legal-App">View Demo</a>
+    <a href="https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App">View Demo</a>
     ·
-    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues">Report Bug</a>
+    <a href="https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Carlosaj18/FULLSTACK-React-Ecommerce-App/issues">Request Feature</a>
+    <a href="https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/issues">Request Feature</a>
   </p>
 </div>
 
