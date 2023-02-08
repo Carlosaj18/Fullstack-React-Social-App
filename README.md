@@ -81,7 +81,11 @@
 
 
 
-https://user-images.githubusercontent.com/62365628/216800626-b3585ace-ba37-4f7b-82bd-ef1055732398.mp4
+https://user-images.githubusercontent.com/62365628/217564505-f6a9bc7e-3e99-45ba-88a4-b53b7bd44b5e.mp4
+
+
+
+
 
 This is a social App that allows you to interact with your friends, make comments, likes and posts. 
 
