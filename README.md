@@ -57,6 +57,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#data-model">Data Model</a></li>
       </ul>
     </li>
     <li>
@@ -115,6 +116,10 @@ Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | Rea
   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Data Model
+
+![image](https://user-images.githubusercontent.com/62365628/226129656-bded07f5-3d6d-4fe3-9651-cd54554606b5.png)
 
 
 <!-- GETTING STARTED -->
