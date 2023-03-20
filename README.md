@@ -142,13 +142,7 @@ npm install
 .env
 ```
 
-### 5. In root directory of the client, create a `.env.local` file
-
-```bash
-.env.local
-```
-
-### 6. In the `.env` file, create following environment variables:
+### 5. In the `.env` file, create following environment variables:
 
 ```
 PORT = 3001
@@ -157,7 +151,7 @@ JWT_SECRET = YOUR_JWT_SECRET
 
 ```
 
-### 7. Run the server
+### 6. Run the server
 
 ```bash
 npm start
@@ -167,7 +161,7 @@ npm run dev
 #for deployed version
 ```
 
-### 8. Run the client
+### 7. Run the client
 
 ```bash
 npm start
@@ -177,7 +171,7 @@ npm run dev
 #for deployed version
 ```
 
-### 10. Access the project in your browser at [`http://localhost:3000/`](http://localhost:3000)
+### 8. Access the project in your browser at [`http://localhost:3000/`](http://localhost:3000)
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
