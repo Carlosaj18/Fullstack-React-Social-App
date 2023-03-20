@@ -127,7 +127,7 @@ Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | Rea
 ### 2. Git clone and cd into the repo folder:
 
 ```bash
-https://github.com/Carlosaj18/Fullstack-React-Social-App.git && cd chatgpt-clone
+https://github.com/Carlosaj18/Fullstack-React-Social-App.git && cd sicial-App-clone
 ```
 
 ### 3. Install all dependencies
