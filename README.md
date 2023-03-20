@@ -40,7 +40,7 @@
     <a href="https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App"><strong>Explore the site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App">View Demo</a>
+    <a href="https://user-images.githubusercontent.com/62365628/217564505-f6a9bc7e-3e99-45ba-88a4-b53b7bd44b5e.mp4">View Demo</a>
     ·
     <a href="https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/issues">Report Bug</a>
     ·
@@ -79,24 +79,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project!
 
-
-
-
 https://user-images.githubusercontent.com/62365628/217564505-f6a9bc7e-3e99-45ba-88a4-b53b7bd44b5e.mp4
-
-
-
-
 
 This is a social App that allows you to interact with your friends, make comments, likes and posts. 
 
+## Usage
+<p id="Usage"><p>
+
 Here's why:
-* It easy to register and login. 
+* It easy to register.
+* You login with a token validation.
 * You can make any post and upload the image and description.
 * Your friends can like your post. 
 * You can add new friends to your list. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 
@@ -113,43 +109,75 @@ Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | Rea
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
   
-  
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Data Model
 
 ![image](https://user-images.githubusercontent.com/62365628/226129656-bded07f5-3d6d-4fe3-9651-cd54554606b5.png)
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 ### Prerequisites
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+`**Note**`: This app requires API key from <a href="https://www.mongodb.com/" >MongoDB Account</a>
 
-### Installation
+### 1. Download Node.js and `npm` (follow instructions [here](https://nodejs.org/en/))
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Start the Server in localhost/3001
-   ```sh
-   nodemon index.js
-   ```
-4. Start the Client in localhost/3000
-   ```sh
-   npm start
-   ```
+### 2. Git clone and cd into the repo folder:
+
+```bash
+https://github.com/Carlosaj18/Fullstack-React-Social-App.git && cd chatgpt-clone
+```
+
+### 3. Install all dependencies
+
+```bash
+npm install
+```
+
+### 4. In root directory of the server, create a `.env` file
+
+```bash
+.env
+```
+
+### 5. In root directory of the client, create a `.env.local` file
+
+```bash
+.env.local
+```
+
+### 6. In the `.env` file, create following environment variables:
+
+```
+PORT = 3001
+MONGO_URL = YOUR_MONGO_API_KEY
+JWT_SECRET = YOUR_JWT_SECRET
+
+```
+
+### 7. Run the server
+
+```bash
+npm start
+#for deployed version
+
+npm run dev
+#for deployed version
+```
+
+### 8. Run the client
+
+```bash
+npm start
+#for deployed version
+
+npm run dev
+#for deployed version
+```
+
+### 10. Access the project in your browser at [`http://localhost:3000/`](http://localhost:3000)
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,10 +213,22 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Live Site 
+
+<p id="live-site"><p>
+
+<a href="https://chat-ai-frontend.onrender.com">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+
+• **[Chat AI App](https://chat-ai-frontend.onrender.com)** is a responsive web app can be viewed on any device.
+
+<br>
+
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App]
+<a href=#lets-connect>![Let's Connect!](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314257/Readme%20Headers/inter-lets-connect_bv3kcd.png)</a>
+
+<p><a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=90 alt="Twitter badge"></a> <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=90 alt="Linkedin badge"></a> <a href="mailto:cjaramilloportilla@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=90 alt="Gmail badge"></a> <a href="https://github.com/Carlosaj18"><img src="https://img.shields.io/badge/github-%23ff8e44.svg?&style=for-the-badge&logo=github&logoColor=white" height=30 width=90 alt="Github badge"></a></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
