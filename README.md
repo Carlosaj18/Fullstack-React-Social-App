@@ -179,17 +179,15 @@ npm run dev
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Start the Server
-- [x] Start the Client  
-- [ ] Create your posts 
-- [ ] Add friends 
-- [ ] Like their posts 
+- [x] Installation
+- [x] Tech Stack
+- [ ] Live Site
+- [ ] Resources
+- [ ] Let's Connect
 
 See the [open issues](https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -211,9 +209,9 @@ Don't forget to give the project a star! Thanks again!
 
 <p id="live-site"><p>
 
-<a href="https://chat-ai-frontend.onrender.com">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
+<a href="">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
 
-• **[Chat AI App](https://chat-ai-frontend.onrender.com)** is a responsive web app can be viewed on any device.
+• **[Social App]()** is a responsive web app can be viewed on any device.
 
 <br>
 
