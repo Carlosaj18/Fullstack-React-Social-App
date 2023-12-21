@@ -49,56 +49,26 @@
 </div>
 
 <br />
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#data-model">Data Model</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
-## About The Project!
+## :star2: About the Project
 
-https://user-images.githubusercontent.com/62365628/217564505-f6a9bc7e-3e99-45ba-88a4-b53b7bd44b5e.mp4
+<div align="justify">Engage with friends, share posts, and interact through comments and likes within this social app.
+  <br><br>
+</div>
 
-This is a social App that allows you to interact with your friends, make comments, likes and posts. 
-
-## Usage
-<p id="Usage"><p>
-
-Here's why:
-* It easy to register.
-* You login with a token validation.
-* You can make any post and upload the image and description.
-* Your friends can like your post. 
-* You can add new friends to your list. 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Built With
-
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+## Project Technological Stack:
+* MongoDB: A NoSQL database used for storing and managing data efficiently.
+* Express: A backend web application framework for Node.js, aiding in server-side development.
+* Node.js: A JavaScript runtime for building scalable and robust server-side applications.
+* React: A frontend library for crafting responsive and dynamic user interfaces.
+* Material UI: A UI framework offering pre-built components for a consistent design.
+* Formik: A library for handling forms and form validation in React applications.
+* Yup: A schema validation library used in conjunction with Formik for form validation.
+* Redux Toolkit: A state management library ensuring predictable state updates and application-wide data handling.
 
 <p align="center">
+    <br><br>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" alt="Express" height="40" style="vertical-align:top; margin:4px"></a>
   <a target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" height="40" style="vertical-align:top; margin:4px"></a>
@@ -108,14 +78,17 @@ Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | Rea
   <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="Redux" height="40" style="vertical-align:top; margin:10px"></a>
    <a> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="MaterialUi" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
-  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Data Model
-
-![image](https://user-images.githubusercontent.com/62365628/226129656-bded07f5-3d6d-4fe3-9651-cd54554606b5.png)
-
-<!-- GETTING STARTED -->
+## Features:
+*      Authentication: Secure logins with token-based authentication.
+*      Post Interactions: Create, like, and comment on posts.
+*      Friend Management: Add, remove, and manage friends.
+*      Form Handling & Validation: Seamless form management and validation.
+*      Responsive UI: Visually appealing and responsive design across devices.
+*      State Management: Predictable data handling with Redux Toolkit.
+*      Backend Development: Scalable backend built on Express with Node.js.
+*      Database Management: Efficient data storage using MongoDB.
+*  
 ## Getting Started
 
 ### Prerequisites
@@ -172,38 +145,16 @@ npm run dev
 ```
 
 ### 8. Access the project in your browser at [`http://localhost:3000/`](http://localhost:3000)
-   
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+ ## Demo & Showcasing:
 
-<!-- ROADMAP -->
-## Roadmap
+ ### :camera: Screenshots
 
-- [x] Installation
-- [x] Tech Stack
-- [ ] Live Site
-- [ ] Resources
-- [ ] Let's Connect
+https://user-images.githubusercontent.com/62365628/217564505-f6a9bc7e-3e99-45ba-88a4-b53b7bd44b5e.mp4
 
-See the [open issues](https://github.com/Carlosaj18/Fullstack-Responsive-MERN-App/issues) for a full list of proposed features (and known issues).
+### Data Model
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![image](https://user-images.githubusercontent.com/62365628/226129656-bded07f5-3d6d-4fe3-9651-cd54554606b5.png)
 
 ## Live Site 
 
